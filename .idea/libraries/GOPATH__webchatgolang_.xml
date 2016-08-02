@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;webchatgolang&gt;">
+    <CLASSES>
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/pkg" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/chat" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/webroot" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/src" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/pkg" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/chat" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/webroot" />
+      <root url="file://C:/Tailieu/Android/websocket-master2/websocket-master/websocket-chat/src/src" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
